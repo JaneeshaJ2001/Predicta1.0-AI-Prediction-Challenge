@@ -3,13 +3,13 @@ Predicta 1.0 is an AI prediction challenge competition hosted by the IEEE studen
 
 Score : 0.921
 
-## Project Overview
+## Task Overview
 
-The goal of this project was to develop a machine learning model capable of accurately classifying daily weather conditions into predefined categories using historical weather data. The project involved extensive data preprocessing, feature engineering, and model evaluation to identify the most effective predictive model.
+The goal was to develop a machine learning model capable of accurately classifying daily weather conditions into predefined categories using historical weather data. It involved extensive data preprocessing, feature engineering, and model evaluation to identify the most effective predictive model.
 
 ## Dataset
 
-The dataset (daily_data.csv) used in this project includes various weather-related features such as temperature, humidity, wind speed, atmospheric pressure, precipitation, and more. Categorical variables such as city identifiers were also included, which were crucial for geographical analysis.
+The dataset (daily_data.csv) used in this task includes various weather-related features such as temperature, humidity, wind speed, atmospheric pressure, precipitation, and more. Categorical variables such as city identifiers were also included, which were crucial for geographical analysis.
 
 ## Methodology
 
