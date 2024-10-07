@@ -1,7 +1,7 @@
 # Weather-Classification
 Predicta 1.0 is an AI prediction challenge competition hosted by the IEEE student branch of the University of Peradeniya. This repository includes my Kaggle submission, which secured 2nd place on the public leaderboard.
 
-Score : 0.921
+Accuracy Score : 0.921
 
 ## Task Overview
 
